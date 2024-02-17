@@ -1,0 +1,7 @@
+safeValue
+' OR '1'='1
+<script>alert(1)</script>
+%27%20OR%20%271%27%3D%271
+admin' --
+1; DROP TABLE users
+"><script>alert('XSS')</script>
